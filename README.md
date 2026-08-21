@@ -129,6 +129,21 @@ Políticas de acesso | Controle de tráfego | Superfície de ataque | Segmentaç
 
 Hardening | Coleta e validação | Evidências reproduzíveis | Pipelines | Baselines
 
+## LEARN / START
+
+Repositorios de referencia, curadoria e ponto de partida para estudo em seguranca da informacao:
+
+| Projeto | Area | Objetivo |
+|---|---|---|
+| [`Awesome-Security-Information`](https://github.com/FTRep01/Awesome-Security-Information) | Curadoria geral | Reunir referencias e materiais de seguranca da informacao |
+| [`Awesome-Security-Frameworks`](https://github.com/FTRep01/Awesome-Security-Frameworks/) | Frameworks | Curadoria de frameworks de seguranca |
+| [`OSINT-Awesome-Modern`](https://github.com/FTRep01/OSINT-Awesome-Modern) | OSINT | Curadoria de ferramentas e tecnicas modernas de OSINT |
+| [`Incident-Response-Playbooks`](https://github.com/FTRep01/Incident-Response-Playbooks) | DFIR / IR | Playbooks de resposta a incidentes |
+| [`DevSecOps-Playbook`](https://github.com/FTRep01/DevSecOps-Playbook) | DevSecOps | Praticas e playbook de seguranca no ciclo de desenvolvimento |
+| [`Awesome-Cloud-Security`](https://github.com/FTRep01/Awesome-Cloud-Security) | Cloud Security | Curadoria de seguranca em nuvem |
+| [`Awesome-AI-Security-RedTeaming`](https://github.com/FTRep01/Awesome-AI-Security-RedTeaming/) | AI Security | Curadoria de seguranca e red teaming aplicados a IA |
+| [`Awesome-BlueTeaming-Operations`](https://github.com/FTRep01/Awesome-BlueTeaming-Operations) | Blue Team | Curadoria de operacoes e praticas de Blue Team |
+
 ## Projetos defensivos
 
 Estes sao os projetos principais do meu portfolio Blue Team:
