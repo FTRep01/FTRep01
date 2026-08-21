@@ -63,7 +63,7 @@
 
 ## Sobre mim
 
-Atuo com foco em **Seguranca da Informacao e operacoes defensivas**, conectando monitoramento, analise de eventos, investigacao, engenharia de deteccao e mitigacao de riscos.
+Atuo com foco em **Segurança da Informacão e operações defensivas**, conectando monitoramento, analise de eventos, investigacao, engenharia de deteccao e mitigacao de riscos.
 
 Meu ciclo de defesa:
 
